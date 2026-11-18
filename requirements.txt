@@ -1,0 +1,14 @@
+# Backend (Flask API)
+flask
+flask-cors
+joblib
+numpy
+pandas
+# Models in backend/models were saved with this version. Keep it pinned
+scikit-learn==1.7.2
+
+# Training / EDA notebooks only
+jupyter
+matplotlib
+seaborn
+wordcloud
