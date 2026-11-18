@@ -110,7 +110,7 @@ Email text gets 60% weight because it achieved 98% accuracy vs 88% for URLs.
 ## 5. Complete File Structure
 
 ```
-phishguard/
+PhishGuard/
 │
 ├── training/
 │   ├── phishing_email.csv        ← Email dataset (download, not in repo)
@@ -362,8 +362,8 @@ Styles the badge to match Gmail's design:
 
 ### Step 1 — Set Up the Environment
 ```bash
-git clone https://github.com/meesalagit/phishguard.git
-cd phishguard
+git clone https://github.com/meesalagit/PhishGuard.git
+cd PhishGuard
 
 # Option A: Anaconda
 conda create -n phish python=3.10 -y
@@ -391,7 +391,7 @@ Loading models...
 1. Open Chrome and go to `chrome://extensions`
 2. Turn on **Developer Mode** (top right toggle)
 3. Click **Load Unpacked**
-4. Select the `phishguard/extension` folder
+4. Select the `PhishGuard/extension` folder
 5. PhishGuard extension appears with blue icon ✅
 
 ### Step 4 — Test It
