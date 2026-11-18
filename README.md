@@ -2,6 +2,8 @@
 
 > A Chrome extension that automatically scans Gmail emails using Hybrid Lightweight Machine Learning to detect phishing attacks in real-time, with explainable risk scores and reasons.
 
+**M.S. Information Technology capstone, Northern Arizona University (2026).** Built by a four-person team (Team Protectors). **My role:** the Flask backend and ML integration: loading the trained models, the `/predict` API, the 0.6/0.4 text-URL score fusion, explainable reasons, and fingerprint caching.
+
 ---
 
 ## 📌 Table of Contents
